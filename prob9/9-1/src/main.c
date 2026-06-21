@@ -36,6 +36,7 @@ int main() {
     }
 	printf("\n");
 
+
 /* 終了 */
 return 0;
 
